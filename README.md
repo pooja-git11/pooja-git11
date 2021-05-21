@@ -1,4 +1,10 @@
 Hi there 👋, I am  MCA 2nd Year Student at IGDTUW 
+
+##Tech Stack
+
+Programming Language- C++, Java, Python
+Framework - Flutter
+Database - MySQL
 <!--
 **pooja-git11/pooja-git11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
