@@ -2,8 +2,8 @@
 
 # Tech Stack
 
-*   **Programming Language -** C++, Java, Python
-*   **Concept -** Object Oriented Programming, Data Structure and Algorithms
+*   **Programming Language -** C++, Java, Python,Java Script
+*   **CourseWork -** Object Oriented Programming, Data Structure and Algorithms
 *   **Operating System -** Windows, Ubuntu
 *   **Framework -** Flutter
 *   **Database -** MySQL
