@@ -1,4 +1,4 @@
-**Hi there 👋,**  I am  MCA 2nd Year Student at IGDTUW 
+**Hi there 👋,**  I am  MCA Final Year Student at IGDTUW 
 
 # Tech Stack
 
