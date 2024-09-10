@@ -2,12 +2,12 @@
 
 # Tech Stack
 
-*   **Programming Language -** C++, Java, Python,Java Script
+*   **Programming Language -** C++, Java
 *   **CourseWork -** Object Oriented Programming, Data Structure and Algorithms, DBMS, Operating System
 *   **Operating System -** Windows, Ubuntu
-*   **Framework -** Flutter
+*   **Framework -** Spring Boot, Spring
 *   **Database -** MySQL
-*   **Other -** HTML, CSS, Firebase
+*   **Other -** Kafka, MQ, Junit, Cucumber
 
 <!--
 **pooja-git11/pooja-git11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
